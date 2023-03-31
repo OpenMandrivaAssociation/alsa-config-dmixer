@@ -1,6 +1,6 @@
 Name:		alsa-config-dmixer
 Version:	1.0
-Release:	1
+Release:	2
 BuildArch:	noarch
 Group:		Sound
 Summary:	Sound configuration allowing multiple inputs without PulseAudio
